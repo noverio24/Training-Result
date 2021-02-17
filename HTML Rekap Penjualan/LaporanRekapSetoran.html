@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SLIP SETORAN PENJUALAN</title>
+    <style>
+        .informasi-faktur {
+          margin-top: 2rem;
+          width: 100%;
+          text-align: left;
+          border-collapse: collapse;
+          font-size: 12px;
+        }
+
+        .informasi-faktur tr th {
+          padding: 3px;
+        }
+        .informasi-faktur tr td {
+          padding: 3px;
+        }
+
+        .body-faktur {
+          width: 100%;
+          margin-top: 4rem;
+          border-collapse: collapse;
+        }
+
+        .body-faktur tr th {
+          border: 1px solid black;
+          background-color: rgba(43, 43, 236, 0.698);
+        }
+        .body-faktur tr td {
+          border: 1px solid black;
+          text-align: center;
+        }
+    </style>
+</head>
+<body>
+    
+    <table style="width: 100%; border-bottom: 3px solid black">
+        <tr>
+          <th>
+            <h3 style="text-align: left; margin: 0; color: rgb(48, 42, 128)">
+                PT Benteng Persada Multindo
+            </h3>
+          </th>
+        </tr>
+        <tr>
+          <th>
+            <h4 style="margin: 0; text-align: left; color: rgb(48, 42, 128)">
+                Laporan Rekap Setoran
+            </h4>
+          </th>
+        </tr>
+      </table>
+    
+
+
+    <table class="informasi-faktur" style="width:100%;" border="3">
+        <tr>
+            <th rowspan="3">Area</th>
+            <th rowspan="3"> Nama Sales </th>
+            <th rowspan="3"> Kode </th>
+            <th rowspan="3"> Saldo Awal Piutang</th>
+            <th rowspan="3">So. Awal Kas Sales(Blm Set. Bank)</th>
+            <th rowspan="3">So. Awal Piutang Gr/Cq(Blm Set. Bank)</th>
+            <th colspan="4" bgcolor="pink">Penjualan</th>
+            <th colspan="6" bgcolor="grey">Tertagih</th>
+            <th rowspan="3">Setor ke Kas Besar(Rp)</th>
+            <th colspan="4" bgcolor="yellow">BCA</th>
+            <th rowspan="3">Saldo Akhir Kas Sales Cash(blm. Set Bank)</th>
+            <th rowspan="3">Saldo Akhir Piutang</th>
+            <th rowspan="3">Saldo Akhir Piutang Gr/Cq</th>
+            
+        </tr>
+        <tr>
+            <th colspan="2">Tunai</th>
+            <th rowspan="2">Kredit(Rp)</th>
+            <th rowspan="2">Total Penjualan(Rp)</th>
+            <th rowspan="2">Cash(Rp)</th>
+            <th rowspan="2">Transfer</th>
+            <th rowspan="2">Gr/Cq</th>
+            <th rowspan="2">Pot.Insentive(Rp)</th>
+            <th rowspan="2">Cn/Adm(Rp)</th>
+            <th rowspan="2">Total Tertagih(Rp)</th>
+            <th colspan="2">Set.Cash Harian</th>
+            <th colspan="2">Lainnya (BG)</th>
+           
+        </tr>
+        <tr>
+            <th>Cash(Rp)</th>
+            <th>Gr/Tr/Cq(BG)</th>
+            <th>rek non PPN(Rp)</th>
+            <th>rek PPN(Rp)</th>
+            <th>rek non PPN(Rp)</th>
+            <th>rek PPN(Rp)</th>
+        </tr>
+    
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="pink">OFFICE</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>45,000</td>
+            <td></td>
+            <td>1,349,824.86</td>
+            <td>1,349,824.86</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>1,394,824.86</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="green">RIZAL</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>4,241,500</td>
+            <td></td>
+            <td>4,241,500</td>
+            <td>4,241,500</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>1394824.86</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="grey">ARIFIN</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>3,672,600</td>
+            <td></td>
+            <td>3,672,600</td>
+            <td>3,672,600</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>3,672,600</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="pink">VITA</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>2,813,500</td>
+            <td></td>
+            <td>3,439,040.00</td>
+            <td>6,252,540.00</td>
+            <td>686,400.00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>686,400.00</td>
+            <td>6,938,940.00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="pink">P STEFEN</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>60,881,184.00</td>
+            <td>60,881,184.00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>60,881,184.00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="pink">SALES 6</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="pink">SALES 7</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="pink">SALES 8</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="pink">SALES 9</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Surabaya</td>
+            <td bgcolor="pink">SALES 10</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th colspan="2">Total</th>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>10,772,600.00</td>
+            <td></td>
+            <td>65,670,048.86</td>
+            <td>76,442,648.86</td>
+            <td>686,400.00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>686,400.00</td>
+            <td>77,129,048.86</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+       
+       
+        
+    </table>
+    
+
+</body>
+</html>

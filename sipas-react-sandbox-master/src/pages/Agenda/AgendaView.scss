@@ -1,0 +1,97 @@
+.PageView.Agenda {
+	background: white;
+
+	.ant-layout-sider {
+		overflow-y: auto;
+
+		.ant-menu {
+			margin-bottom: 3rem;
+			
+			.ant-menu-item {
+				&::after {
+					left: 0;
+					right: auto;
+				}
+			}
+		}
+		.ant-menu-item-group-title {
+			color: rgba(0, 0, 0, 0.85);
+			font-weight: bold;
+		}
+
+		.ant-page-header {
+			padding-left: 1rem;
+		}
+	}
+    .h4 {
+        width: 200px;
+      }
+	.content
+	{
+		overflow-y: auto; 
+		height: 100%;
+
+		.PageView {
+			padding-top: 0;
+		}
+    }
+    .card
+    {
+        margin-left: 0%;
+        margin-top: 0%;
+        width: 300px;
+        // transition: 0.3s;
+        .card_text {
+            margin-top: 0%;
+            margin-bottom: 0%;
+        }
+    }
+    .DownOutlined 
+    {
+        margin-left: 180px;
+        width: 200px;
+    }
+}
+
+
+
+// .AgendaView {
+    // .h4 {
+    //   margin: 5px  
+    // }
+// 	.table-operations {
+// 		margin-bottom: 16px;
+
+// 		button:not(:last-child) {
+// 			margin-right: 8px;
+// 		}
+// 	}
+
+// 	.ant-table
+// 	{
+// 		.ant-table-row-cell-ellipsis
+// 		{
+// 			cursor: pointer;
+// 		}
+//     }
+//     .content
+// 	{
+//         background-color: rgb(255, 255, 255);
+//         margin-left: 5%;
+//     }
+    // .card
+    // {
+    //     margin-left: 0%;
+    //     margin-top: 100%;
+    //     width: 50%;
+    //     transition: 0.3s;
+    //     .card_text {
+    //         margin-top: 0%;
+    //         margin-bottom: 0%;
+    //     }
+    // }
+    // .DownOutlined 
+    // {
+    //     margin-left: 50px;;
+    // }
+// }

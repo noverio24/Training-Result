@@ -1,0 +1,5 @@
+{
+    "name":"AgendaArsipBebas",
+    "main":"./AgendaArsipBebas.js",
+    "private": true
+}

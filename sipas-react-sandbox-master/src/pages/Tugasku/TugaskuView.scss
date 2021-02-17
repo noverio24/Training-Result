@@ -1,0 +1,28 @@
+.PageView.tugasku {
+    background: rgb(255, 255, 255);
+
+    .left-layout{
+        margin-top: 2%;
+        margin-bottom: 2%;
+
+        .left-layout-icon{
+            text-align: center;
+            
+            .left-layout-icon-text{
+                margin-top: 15%;
+                margin-bottom: 15%;
+            }
+        }
+        .left-layout-text{
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+    }
+    
+    .content
+	{
+        background-color: rgb(255, 255, 255);
+        margin-left: 5%;
+    }
+    
+}

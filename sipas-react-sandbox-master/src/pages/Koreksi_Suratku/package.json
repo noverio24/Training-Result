@@ -1,0 +1,5 @@
+{
+    "name":"koreksi_suratku",
+    "main":"./Koreksi_Suratku.js",
+    "private": true
+}

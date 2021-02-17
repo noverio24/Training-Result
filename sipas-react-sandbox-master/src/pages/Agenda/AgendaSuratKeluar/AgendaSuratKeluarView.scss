@@ -1,0 +1,32 @@
+.PageView.AgendaSuratKeluar {
+    background: rgb(255, 255, 255);
+    
+    .content
+	{
+        background-color: rgb(255, 255, 255);
+        margin-left: 5%;
+    }
+    .h5{
+       text-emphasis-color: red;
+    }
+    .filter {
+        margin-bottom: 10px;
+        margin-left: 100px;
+    }
+
+    .card_hover{
+        margin: 0;
+        &:hover{
+            border-radius: 30px;
+            box-shadow: 0 1px 8px 0 rgb(121, 201, 226);
+            transition: 0.3s;
+        }
+    }
+    .card_link{
+        margin: 0%;
+        .card_link_margin{
+            margin-left: 50%;
+        }
+    }
+    
+}

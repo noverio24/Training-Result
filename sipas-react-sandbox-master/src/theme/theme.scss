@@ -1,0 +1,74 @@
+body {
+	background-color: #f0f2f5 !important;
+	overscroll-behavior: none;
+	height: 100%;
+	width: 100%;
+}
+
+div#root {
+	height: 100%;
+	width: 100%;
+}
+
+.App {
+	text-align: center;
+}
+
+/* .App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+} */
+.App-logo {
+	width: 100%;
+	height: 56px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-image: url('http://lab.sipas.id/master/v3.0/canvas/dist/common/logo/Logo%20RightTitle%20Light%20512x84.png');
+	background-size: 56% auto;
+}
+// tablet
+@media (max-width: 1024px) {
+    .App-logo {
+		background-image: url('http://lab.sipas.id/master/v3.0/canvas/dist/common/logo/Logo%20RightTitle%20Light%20512x84.png');
+        background-size: 36% auto;
+    }
+}
+// mobile large
+@media (max-width: 768px) {
+    .App-logo {
+		background-image: url('http://lab.sipas.id/master/v3.0/canvas/dist/common/logo/Logo%20RightTitle%20Light%20512x84.png');
+		background-size: 92% auto;
+    }
+}
+// mobile
+@media (max-width: 425px) {
+    .App-logo {
+		background-image: url('http://lab.sipas.id/master/v3.0/canvas/dist/common/icon/Icon%20Light_512.png');
+		background-size: 92% auto;
+    }
+}
+
+.App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.App-link {
+	color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}

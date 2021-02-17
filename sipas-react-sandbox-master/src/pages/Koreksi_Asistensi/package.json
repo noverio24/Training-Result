@@ -1,0 +1,5 @@
+{
+    "name":"koreksi_asistensi",
+    "main":"./Koreksi_Asistensi.js",
+    "private": true
+}

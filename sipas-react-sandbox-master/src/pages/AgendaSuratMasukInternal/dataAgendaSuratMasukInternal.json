@@ -1,0 +1,81 @@
+
+  [
+    {
+      "jenis_surat": "Masuk Internal", 
+      "status": "Belum Terbaca", 
+      "nomor_surat": "055/DKA/06/2019", 
+      "from": "Bapak Kepala Dinas", 
+      "tanggal_terima": "hari ini", 
+      "type_surat": "UM Umum", 
+      "judul_surat": "Kerjasama antar vendor", 
+      "berkas": "-", 
+      "tembusan": "-", 
+      "id": 1, 
+      "icon": "https://as2.ftcdn.net/jpg/00/75/34/49/500_F_75344932_S7QUCfyBXqDcY59g1pmzqi5PoRh3bovt.jpg"
+      }, 
+      {
+      "jenis_surat": "Masuk Internal", 
+      "status": "Belum Terbaca", 
+      "nomor_surat": "055/DKA/06/2019", 
+      "from": "Bapak Kepala Dinas", 
+      "tanggal_terima": "hari ini", 
+      "type_surat": "UM Umum", 
+      "judul_surat": "Kerjasama antar vendor", 
+      "berkas": "-", 
+      "tembusan": "-", 
+      "id": 2, 
+      "icon": "https://as2.ftcdn.net/jpg/00/75/34/49/500_F_75344932_S7QUCfyBXqDcY59g1pmzqi5PoRh3bovt.jpg"
+      }, 
+      {
+      "jenis_surat": "Masuk Internal", 
+      "status": "Sudah Terbaca", 
+      "nomor_surat": "055/DKA/06/2019", 
+      "from": "Bapak Kepala Dinas", 
+      "tanggal_terima": "hari ini", 
+      "type_surat": "UM Umum", 
+      "judul_surat": "Kerjasama antar vendor", 
+      "berkas": "-", 
+      "tembusan": "-", 
+      "id": 3, 
+      "icon": "https://as2.ftcdn.net/jpg/00/75/34/49/500_F_75344932_S7QUCfyBXqDcY59g1pmzqi5PoRh3bovt.jpg"
+      }, 
+      {
+      "jenis_surat": "Masuk Internal", 
+      "status": "Belum Terbaca", 
+      "nomor_surat": "055/DKA/06/2019", 
+      "from": "Bapak Kepala Dinas", 
+      "tanggal_terima": "hari ini", 
+      "type_surat": "UM Umum", 
+      "judul_surat": "Kerjasama antar vendor", 
+      "berkas": "-", 
+      "tembusan": "-", 
+      "id": 4, 
+      "icon": "https://as2.ftcdn.net/jpg/00/75/34/49/500_F_75344932_S7QUCfyBXqDcY59g1pmzqi5PoRh3bovt.jpg"
+      }, 
+      {
+      "jenis_surat": "Masuk Internal", 
+      "status": "Sudah Terbaca", 
+      "nomor_surat": "055/DKA/06/2019", 
+      "from": "Bapak Kepala Dinas", 
+      "tanggal_terima": "hari ini", 
+      "type_surat": "UM Umum", 
+      "judul_surat": "Kerjasama antar vendor", 
+      "berkas": "-", 
+      "tembusan": "-", 
+      "id": 5, 
+      "icon": "https://as2.ftcdn.net/jpg/00/75/34/49/500_F_75344932_S7QUCfyBXqDcY59g1pmzqi5PoRh3bovt.jpg"
+      }, 
+      {
+      "jenis_surat": "Masuk Internal", 
+      "status": "Sudah Terbaca", 
+      "nomor_surat": "055/DKA/06/2019", 
+      "from": "Bapak Kepala Dinas", 
+      "tanggal_terima": "hari ini", 
+      "type_surat": "UM Umum", 
+      "judul_surat": "Kerjasama antar vendor", 
+      "berkas": "-", 
+      "tembusan": "-", 
+      "id": 6, 
+      "icon": "https://as2.ftcdn.net/jpg/00/75/34/49/500_F_75344932_S7QUCfyBXqDcY59g1pmzqi5PoRh3bovt.jpg"
+      }
+    ]

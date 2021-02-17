@@ -1,0 +1,6 @@
+{
+    "name": "posts",
+    "main": "./Posts.js",
+    "private": true
+  }
+  

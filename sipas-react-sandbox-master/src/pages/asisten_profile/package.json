@@ -1,0 +1,6 @@
+{
+    "name": "asisten",
+    "main": "./Asisten.js",
+    "private": true
+  }
+  

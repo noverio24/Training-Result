@@ -1,0 +1,21 @@
+.PageView.tugaskuDetailView {
+    background: rgb(242, 250, 253);
+    
+    .content
+	{
+        background-color: rgb(255, 255, 255);
+        margin-left: 5%;
+    }
+    .card
+    {
+        margin-left: 0%;
+        margin-top: 0%;
+        width: 100%;
+        box-shadow: 0 1px 8px 0 rgb(149, 224, 246);
+        transition: 0.3s;
+        .card_text {
+            margin-top: 0%;
+            margin-bottom: 0%;
+        }
+    }
+}

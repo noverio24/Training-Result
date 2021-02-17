@@ -1,0 +1,93 @@
+[
+  {
+    "jenis_surat": "Keluar Internal", 
+    "status": "Belum Terbaca", 
+    "nomor_surat": "102/MLG/08/2020", 
+    "from": "Manajemen PT Sekawan Media Informatika", 
+    "tanggal_terima": "hari ini", 
+    "type_surat": "UM Umum", 
+    "judul_surat": "Perayaan Hari Jadi PT Sekawan Media Informatika", 
+    "berkas": "-", 
+    "tembusan": "-", 
+    "id": 1, 
+    "icon": "https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743462_DvBD1DlOwMm9bnQJaWJ96VIWkpVf7UhA.jpg"
+  }, 
+  {
+    "jenis_surat": "Keluar Internal", 
+    "status": "Belum Terbaca", 
+    "nomor_surat": "102/MLG/08/2020", 
+    "from": "Manajemen PT Sekawan Media Informatika", 
+    "tanggal_terima": "hari ini", 
+    "type_surat": "UM Umum", 
+    "judul_surat": "Perayaan Hari Jadi PT Sekawan Media Informatika", 
+    "berkas": "-", 
+    "tembusan": "-", 
+    "id": 2, 
+    "icon": "https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743462_DvBD1DlOwMm9bnQJaWJ96VIWkpVf7UhA.jpg"
+  }, 
+  {
+    "jenis_surat": "Keluar Internal", 
+    "status": "Belum Terbaca", 
+    "nomor_surat": "102/MLG/08/2020", 
+    "from": "Manajemen PT Sekawan Media Informatika", 
+    "tanggal_terima": "hari ini", 
+    "type_surat": "UM Umum", 
+    "judul_surat": "Perayaan Hari Jadi PT Sekawan Media Informatika", 
+    "berkas": "-", 
+    "tembusan": "-", 
+    "id": 1, 
+    "icon": "https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743462_DvBD1DlOwMm9bnQJaWJ96VIWkpVf7UhA.jpg"
+  }, 
+  {
+    "jenis_surat": "Keluar Internal", 
+    "status": "Belum Terbaca", 
+    "nomor_surat": "102/MLG/08/2020", 
+    "from": "Manajemen PT Sekawan Media Informatika", 
+    "tanggal_terima": "hari ini", 
+    "type_surat": "UM Umum", 
+    "judul_surat": "Perayaan Hari Jadi PT Sekawan Media Informatika", 
+    "berkas": "-", 
+    "tembusan": "-", 
+    "id": 3, 
+    "icon": "https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743462_DvBD1DlOwMm9bnQJaWJ96VIWkpVf7UhA.jpg"
+  }, 
+  {
+    "jenis_surat": "Keluar Internal", 
+    "status": "Belum Terbaca", 
+    "nomor_surat": "102/MLG/08/2020", 
+    "from": "Manajemen PT Sekawan Media Informatika", 
+    "tanggal_terima": "hari ini", 
+    "type_surat": "UM Umum", 
+    "judul_surat": "Perayaan Hari Jadi PT Sekawan Media Informatika", 
+    "berkas": "-", 
+    "tembusan": "-", 
+    "id": 4, 
+    "icon": "https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743462_DvBD1DlOwMm9bnQJaWJ96VIWkpVf7UhA.jpg"
+  }, 
+  {
+    "jenis_surat": "Keluar Internal", 
+    "status": "Sudah Terbaca", 
+    "nomor_surat": "055/DKA/06/2019", 
+    "from": "Bapak Kepala Dinas", 
+    "tanggal_terima": "hari ini", 
+    "type_surat": "UM Umum", 
+    "judul_surat": "Kerjasama antar vendor", 
+    "berkas": "-", 
+    "tembusan": "-", 
+    "id": 5, 
+    "icon": "https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743462_DvBD1DlOwMm9bnQJaWJ96VIWkpVf7UhA.jpg"
+  }, 
+  {
+    "jenis_surat": "Keluar Internal", 
+    "status": "Sudah Terbaca", 
+    "nomor_surat": "055/DKA/06/2019", 
+    "from": "Bapak Kepala Dinas", 
+    "tanggal_terima": "hari ini", 
+    "type_surat": "UM Umum", 
+    "judul_surat": "Kerjasama antar vendor", 
+    "berkas": "-", 
+    "tembusan": "-", 
+    "id": 6, 
+    "icon": "https://t3.ftcdn.net/jpg/02/73/74/34/240_F_273743462_DvBD1DlOwMm9bnQJaWJ96VIWkpVf7UhA.jpg"
+  }
+]

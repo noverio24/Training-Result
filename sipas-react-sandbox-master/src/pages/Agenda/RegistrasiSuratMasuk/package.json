@@ -1,0 +1,5 @@
+{
+    "name":"registrasiSuratMasuk",
+    "main":"./RegistrasiSuratMasuk.js",
+    "private": true
+}

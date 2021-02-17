@@ -1,0 +1,6 @@
+{
+    "name": "hak_akses",
+    "main": "./HakAkses.js",
+    "private": true
+  }
+  

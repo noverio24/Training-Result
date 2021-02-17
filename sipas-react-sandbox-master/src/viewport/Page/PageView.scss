@@ -1,0 +1,33 @@
+.TabPaneView
+{
+    height: 100%;
+    width: 100%;
+
+    &:not(.plain)
+    {
+        width: 100%;
+        background-color: white;
+        padding: 1rem;
+        overflow-y: auto;
+    }
+
+    &.centerContent 
+    {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    &.scrollable
+    {
+        overflow-y: auto;
+    }
+    &.scrollableVertical
+    {
+        overflow-y: auto;
+    }
+    &.scrollableHorizontal
+    {
+        overflow-y: auto;
+    }
+}

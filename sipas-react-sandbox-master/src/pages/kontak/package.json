@@ -1,0 +1,6 @@
+{
+    "name": "kontak",
+    "main": "./Kontak.js",
+    "private": true
+  }
+  

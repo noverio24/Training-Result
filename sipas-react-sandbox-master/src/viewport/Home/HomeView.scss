@@ -1,0 +1,13 @@
+$header-height: 48px;
+
+.HomeView {
+	margin-top: $header-height;
+	height: calc(100vh - #{$header-height});
+
+	> .PageView {
+
+		> .ant-page-header {
+			padding-top: 0;
+		}
+	}
+}

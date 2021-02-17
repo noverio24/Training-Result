@@ -1,0 +1,5 @@
+{
+    "name":"asistenDetail",
+    "main":"./asistenDetail.js",
+    "private": true
+}

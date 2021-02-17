@@ -1,0 +1,86 @@
+.PageView.Asistensi {
+	background: white;
+
+	.card {
+		padding:0px;
+	}
+    .card_hover{
+		// width: 220px;
+		margin-top: 30px;
+		margin-left: 20px;
+        &:hover{
+            border-radius: 15px;
+            box-shadow: 0 1px 8px 0 rgb(121, 201, 226);
+            transition: 0.3s;
+        }
+	}
+	.card_hover1{
+		width: 220px;
+		margin-top: 30px;
+		margin-left: 20px;
+		padding:1px;
+        &:hover{
+            border-radius: 15px;
+            box-shadow: 0 1px 8px 0 rgb(121, 201, 226);
+            transition: 0.3s;
+        }
+    }
+	.card_link{
+		margin-left: 5%;
+        .card_link_margin{
+            margin-left: 0%;
+        }
+    }
+
+	.left-layout{
+        margin-top: 2%;
+        margin-bottom: 2%;
+
+        .left-layout-icon{
+			text-align: center;
+			border-radius: 10px;
+            box-shadow: 0 1px 8px 0 rgb(121, 201, 226);
+            .left-layout-icon-text{
+                margin-top: 15%;
+                margin-bottom: 15%;
+            }
+        }
+        .left-layout-text{
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+    }
+
+	.ant-layout-sider {
+		overflow-y: auto;
+
+		.ant-menu {
+			margin-bottom: 3rem;
+			
+			.ant-menu-item {
+				&::after {
+					left: 0;
+					right: auto;
+				}
+			}
+		}
+		.ant-menu-item-group-title {
+			color: rgba(0, 0, 0, 0.85);
+			font-weight: bold;
+		}
+
+		.ant-page-header {
+			padding-left: 1rem;
+		}
+	}
+
+	.content
+	{
+		overflow-y: auto; 
+		height: 100%;
+
+		.PageView {
+			padding-top: 0;
+		}
+	}
+}

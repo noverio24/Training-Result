@@ -1,0 +1,6 @@
+{
+    "name": "pengaturansistem",
+    "main": "./PengaturanSistem.js",
+    "private": true
+  }
+  

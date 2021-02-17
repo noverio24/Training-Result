@@ -1,0 +1,90 @@
+{
+  "AKSES_DILARANG": "Akses dilarang!",
+  "AKUN": "Akun",
+  "BELUM_PUNYA_AKUN?": "Belum punya akun?",
+  "DAFTAR_SEKARANG": "Daftar sekarang!",
+  "HALAMAN_TIDAK_DITEMUKAN": "Halaman tidak ditemukan",
+  "KEMBALI": "Kembali",
+  "LUPA_PASSWORD": "Lupa sandi?",
+  "MASUK": "Masuk",
+  "MASUKKAN_AKUN!": "Silahkan masukkan akun anda!",
+  "MASUKKAN_SANDI!": "Silahkan masukkan sandi anda!",
+  "SANDI": "Sandi",
+  "SILAHKAN_MASUK": "Silahkan Masuk",
+  "menu": {
+    "AGENDA": "Surat Unit",
+    "agenda":{
+      "REGISTRASI_SM": "Registrasi Surat Masuk",
+      "AGENDA_SM": "Agenda Surat Masuk",
+      "AGENDA_SK": "Agenda Surat Keluar",
+      "EKSPEDISI_SK": "Ekspedisi Surat Keluar",
+      "KORESPONDENSI_SURAT": "Korespondensi Surat",
+      "AGENDA_ARSIP_BEBAS": "Agenda Arsip Bebas",
+      "BANK_SURAT": "Bank Surat",
+      "PELAPORAN": "Pelaporan"
+    },
+    "ASISTENSI": "Asistensi",
+    "asistensi":{
+      "TUGAS": "Tugas",
+      "KOREKSI": "Koreksi",
+      "MASUK": "Masuk",
+      "TERKIRIM": "Terkirim"
+    },
+    "BUKU_PANDUAN": "Buku Panduan",
+    "KELUAR_APLIKASI": "Keluar Aplikasi",
+    "PENGATURAN": "Pengaturan",
+    "PROFILE_SAYA": "Profil Saya",
+    "SURATKU": "Suratku",
+    "suratku":{
+      "TUGAS": "Tugas",
+      "KOREKSI": "Koreksi",
+      "MASUK": "Masuk",
+      "TERKIRIM": "Terkirim"
+    },
+    "UMPAN_BALIK": "Umpan Balik",
+    "UNDUH_MOBILE": "Unduh Aplikasi Mobile",
+    "profile":{
+      "ME": "me",
+      "PROFILE": "Profil",
+      "ASISTEN": "Asisten",
+      "PIMPINAN": "Pimpinan",
+      "UNIT_KEWENANGAN": "Unit Kewenangan",
+      "KELOMPOK": "Kelompok"
+    },
+    "pengaturan": {
+      "AKSES": "Hak Akses",
+      "ARAHAN": "Arahan",
+      "ATRIBUT": "Atribut",
+      "AUDIT": "Audit",
+      "EKSPEDISI": "Ekspedisi",
+      "JABATAN": "Jabatan",
+      "JENIS": "Jenis",
+      "KLASIFIKASI": "Klasifikasi",
+      "KLISE": "Template Surat",
+      "KONTAK": "Kontak Koresponden",
+      "LOKASI": "Lokasi Arsip",
+      "MASAAKTIF": "Masa Aktif",
+      "MEDIA": "Media",
+      "ORGANISASI": "Organisasi",
+      "PENOMORAN": "Indeks Penomoran",
+      "PRIORITAS": "Prioritas",
+      "RESPON": "Respon",
+      "SATKER": "Satuan Kerja",
+      "SISTEM": "Pengaturan Sistem",
+      "SLA": "SLA",
+      "STAF": "Pegawai",
+      "STAF_TIM": "Kelompok Pegawai",
+      "UMUM": "Umum",
+      "ASISTENSI": "Asistensi",
+      "KOP": "Kop",
+      "KELOLA_SURAT": "Kelola Surat",
+      "PENOMORAN_SURAT": "Penomoran Surat",
+      "NOTIF_EMAIL": "Notifikasi Email",
+      "NOTIF_SURAT": "Notifikasi Surat",
+      "TEMPLATE": "Template"
+      }
+  },
+  "pengaturan": {
+    "HALAMAN_KOSONG_INFO": "Silahkan pilih menu pengaturan!"
+  }
+}

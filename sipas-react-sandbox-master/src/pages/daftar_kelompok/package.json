@@ -1,0 +1,6 @@
+{
+    "name": "daftar_kelompok",
+    "main": "./DaftarKelompok.js",
+    "private": true
+  }
+  

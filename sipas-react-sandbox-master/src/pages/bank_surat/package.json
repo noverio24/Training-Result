@@ -1,0 +1,6 @@
+{
+    "name": "bank_surat",
+    "main": "./Bank_Surat.js",
+    "private": true
+  }
+  

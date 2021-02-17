@@ -1,0 +1,10 @@
+.Todo {
+    cursor: pointer;
+
+    &.completed
+    {
+        span {
+            text-decoration: line-through;
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "name":"todos",
+    "main":"./Todos.js",
+    "private": true
+}

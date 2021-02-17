@@ -1,0 +1,5 @@
+{
+    "name":"terkirim_asistensi",
+    "main":"./Terkirim_Asistensi.js",
+    "private": true
+}

@@ -1,0 +1,5 @@
+{
+    "name":"tugas",
+    "main":"./Tugas.js",
+    "private": true
+}

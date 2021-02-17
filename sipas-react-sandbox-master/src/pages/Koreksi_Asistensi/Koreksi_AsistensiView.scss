@@ -1,0 +1,25 @@
+.PageView.koreksi_asistensi {
+    background: rgb(255, 255, 255);
+    
+    .content
+	{
+        background-color: rgb(255, 255, 255);
+        margin-left: 5%;
+    }
+
+    .card_hover{
+        margin: 2.5%;
+        &:hover{
+            border-radius: 10px;
+            box-shadow: 0 1px 8px 0 rgb(121, 201, 226);
+            transition: 0.3s;
+        }
+    }
+    .card_link{
+        margin: 2.5%;
+        .card_link_margin{
+            margin-left: 3%;
+        }
+    }
+    
+}

@@ -1,0 +1,41 @@
+.PageView.ProfileView {
+	background:rgb(242, 250, 253);
+	
+	.ant-layout-sider {
+		overflow-y: auto;
+
+		.ant-menu {
+			margin-bottom: 3rem;
+			
+			.ant-menu-item {
+				&::after {
+					left: 0;
+					right: auto;
+				}
+			}
+		}
+		.ant-menu-item-group-title {
+			color: rgba(0, 0, 0, 0.85);
+			font-weight: bold;
+		}
+
+		.ant-page-header {
+			padding-left: 1rem;
+		}
+	}
+
+    .content
+	{
+		overflow-y: auto; 
+		height: 100%;
+
+		.PageView {
+			padding-top: 0;
+		}
+	}
+	.avatar{
+		text-align: center;
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+}

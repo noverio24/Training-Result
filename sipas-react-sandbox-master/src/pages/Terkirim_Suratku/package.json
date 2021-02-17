@@ -1,0 +1,5 @@
+{
+    "name":"terkirim_suratku",
+    "main":"./Terkirim_Suratku.js",
+    "private": true
+}

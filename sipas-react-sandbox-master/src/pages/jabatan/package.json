@@ -1,0 +1,6 @@
+{
+    "name": "jabatan",
+    "main": "./Jabatan.js",
+    "private": true
+  }
+  

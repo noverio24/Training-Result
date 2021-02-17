@@ -1,0 +1,5 @@
+{
+    "name":"profileDetail",
+    "main":"./profileDetail.js",
+    "private": true
+}

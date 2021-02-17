@@ -1,0 +1,34 @@
+pembahsana sebelumnya 
+mebuat dasar website (dengan php)
+menginstall laravel,mengkoneksikan database lokal ke phpadmin kepada kerangka website dengan laravel
+membuat migration baru (table mahasiswa, table dosen) : memasukan variable yang diperlukan pada 2 table tersebut
+mengkoneksikan migration table baru dibuat dengan table user
+
+pembahasan
+
+membuat login dengn menggunakan jwt
+(JSON Web Token (JWT) adalah salah satu metode untuk otentikasi dan pertukaran pesan yang aman. Informasi tentang perkembangan JWT bisa langsung akses http://jwt.io. 
+JWT pada project Laravel ini akan kita gunakan package dari tymondesigns.)
+jwt : adalah sistem login menggunakan token, selagi token terus tersedia pada user , maka user masih bisa masuk.
+
+1.step menginstall Tymon.jwt(plugin) pada project
+	berfungsi data (sama seperti package.jsn ) yg berfokus apda backend
+	terdapat tambahan pad reqiure dan requiere_dev pada composer.json  
+2. install postman sebagai simulator buatan masukan data
+3. membuat controler baru dengan nama DosenControler,
+   mebuat operasi data apa yg masuk dari migrasi ke controler
+   membuat validasi
+   memasukkan data masukan dosen ke model 
+
+4.membuat route API
+memahami get,post,put,delete
+
+
+5. pada jwt
+ttl : time to live => durasi dari login berapa lama
+
+komunikasi database 
+volley + retrofit library
+jembatan untuk akses ke database
+volley :library http networking menghubungkan ke backend
+retrofit : library updatean dari volley ,

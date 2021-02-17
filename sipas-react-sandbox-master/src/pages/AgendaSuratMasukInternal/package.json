@@ -1,0 +1,5 @@
+{
+    "name":"AgendaSuratMasukInternal",
+    "main":"./AgendaSuratMasukInternal.js",
+    "private": true
+}

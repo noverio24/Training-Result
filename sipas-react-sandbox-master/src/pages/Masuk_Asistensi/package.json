@@ -1,0 +1,5 @@
+{
+    "name":"masuk_asistensi",
+    "main":"./Masuk_Asistensi.js",
+    "private": true
+}

@@ -1,0 +1,18 @@
+.LoginFormView
+{
+    min-width: 240px;
+
+    .forgotpasswordLink
+    {
+        float: right;
+    }
+
+    .loginButton
+    {
+        width: 100%;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: .9em;
+        letter-spacing: .02rem;
+    }
+}
